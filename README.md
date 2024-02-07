@@ -19,11 +19,11 @@ I am from Bhavnagar, Gujrat, India.
 - **MA103**: BLA&ODE : *Dr.Kalpesh Hariya & Dr.Lokpathi * 
 
 ## Autumn Semester
-I.  **MA101**: Integration : *Dr.Sandipan de*
-II. **CS101**: Introduction to programming : *Dr.Clint.p.george*
-III. **PH101**: Physics : *Dr.S.K.Das* 
-IV. **CH102**: Inorganic Chemistry : *Dr.Raja Mitra* 
-V. **CH101**: Physical Chemistry : *Dr.E.S.Iyer* 
+I.  **MA101**: Integration : *Dr.Sandipan de*  
+II. **CS101**: Introduction to programming : *Dr.Clint.p.george*  
+III. **PH101**: Physics : *Dr.S.K.Das*   
+IV. **CH102**: Inorganic Chemistry : *Dr.Raja Mitra*   
+V. **CH101**: Physical Chemistry : *Dr.E.S.Iyer*   
 
 ## Hobbies
 - Cricket
