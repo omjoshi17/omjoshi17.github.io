@@ -1,0 +1,119 @@
+/* Resetting default margin and padding for all elements */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* About Me Section */
+.about-me {
+    border: 2pt solid black;
+    background-color: lightsalmon;
+}
+
+.profile-info {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.profile-info h1 {
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 13pt;
+    text-align: left;
+}
+
+.profile-info img {
+    width: 172pt;
+    height: 172pt;
+    margin-left: auto;
+}
+
+.profile-info .description {
+    font-family: sans-serif;
+    color: blue;
+}
+
+/* Education Section */
+.education table {
+    border-spacing: 10pt;
+    background-color: lightblue;
+    width: 100%;
+}
+
+.education th {
+    text-align: left;
+    border-bottom: 2pt solid black;
+    padding: 10pt;
+}
+
+.education td {
+    text-align: left;
+    padding: 10pt;
+}
+
+.education td:nth-child(2) {
+    text-align: center;
+}
+
+/* Course @IIT Goa Section */
+.courses {
+    display: flex;
+}
+
+.spring-semester, .autumn-semester {
+    flex: 1;
+    margin-right: 20pt;
+}
+
+.spring-semester, .autumn-semester ul, .autumn-semester ol {
+    background-color: green;
+    border: 3pt solid black;
+    padding: 10pt;
+}
+
+.spring-semester ul li, .autumn-semester ol li {
+    font-weight: bold;
+    color: blue;
+}
+
+.autumn-semester ol {
+    background-color: lightblue;
+}
+
+/* Hobbies Section */
+.hobbies {
+    background-color: #eee;
+    padding: 20pt;
+}
+
+/* Background Image */
+body {
+    background-image: url('your-background-image.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: white; /* Adjust text color for better visibility */
+}
+
+/* Link States */
+a:link {
+    color: blue;
+}
+
+a:visited {
+    color: gray;
+}
+
+a:hover {
+    color: green;
+}
+
+a:active {
+    color: pink;
+}
+
